@@ -5,7 +5,7 @@ public class Main {
         int bonus;
         if (add > 1000) {
             bonus = add / 100;
-                    } else {
+        } else {
             bonus = 0;
         }
         int finalSum = firstSum + add + bonus;
